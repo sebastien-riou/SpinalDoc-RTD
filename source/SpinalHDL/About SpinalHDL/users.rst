@@ -4,8 +4,9 @@ Users
 Companies
 ---------
 
-* QsPin, Belgium
 * DatenLord, China
+* QsPin, Belgium
+* Tiempo-Secure, France
 
 .. _users_repositories:
 
